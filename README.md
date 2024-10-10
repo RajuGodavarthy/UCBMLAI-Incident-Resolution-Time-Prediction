@@ -122,10 +122,4 @@ In ITSM, accurately predicting incident resolution times enables:
 - matplotlib
 - seaborn
 
-## Installation
-To run the project, clone the repository and install the required packages:
 
-```bash
-git clone <repository-url>
-cd <repository-directory>
-pip install -r requirements.txt
